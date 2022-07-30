@@ -1,0 +1,18 @@
+{
+  "name": "live-4d-slot",
+  "main": "./lib/live-4d-slot",
+  "version": "1.0.0",
+  "description": "Info Demo Toto Play Live 4d Slot Yang Chipnya Bisa Dijual",
+  "keywords": ["agen toto play slot","agentotoplay slot","toptrend gaming","toto slot","bandar slot","slot habanero","games slot gampang menang","slot online jackpot tertinggi","agentoto slot","slot joker123","slot online cq9"],
+
+  "activationCommands": {
+    "atom-workspace": "live-4d-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotpenghasiluang8/live-4d-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

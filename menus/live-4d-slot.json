@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle live-4d-slot",
+        "command": "live-4d-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "live-4d-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "live-4d-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
